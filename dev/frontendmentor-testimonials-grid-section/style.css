@@ -68,19 +68,19 @@ h2 {
   border: 2px solid #777;
 }
 .picone {
-  background-image: url('/images/image-daniel.jpg');
+  background-image: url('https://rfzamith.github.io/dev/frontendmentor-testimonials-grid-section/images/image-daniel.jpg');
 }
 .pictwo {
-  background-image: url('/images/image-jonathan.jpg');
+  background-image: url('https://rfzamith.github.io/dev/frontendmentor-testimonials-grid-section/images/image-jonathan.jpg');
 }
 .picthree {
-  background-image: url('/images/image-jeanette.jpg');
+  background-image: url('https://rfzamith.github.io/dev/frontendmentor-testimonials-grid-section/images/image-jeanette.jpg');
 }
 .picfour {
-  background-image: url('/images/image-patrick.jpg');
+  background-image: url('https://rfzamith.github.io/dev/frontendmentor-testimonials-grid-section/images/image-patrick.jpg');
 }
 .picfive {
-  background-image: url('/images/image-kira.jpg');
+  background-image: url('https://rfzamith.github.io/dev/frontendmentor-testimonials-grid-section/images/image-kira.jpg');
 }
 .name {
   padding-left: 20px;
